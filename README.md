@@ -1,2 +1,1 @@
-# ahoj
-ako sa mas 
+
